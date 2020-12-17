@@ -29,6 +29,7 @@ All the necessary R package dependencies are
 * plm
 
 These packages and dependencies should be installed a priori using the install.packages() function and complemented by the library() function to be ready to use. 
+
 Furthermore, we also leveraged packages available in the Bioconductor:
 
 * edgeR
