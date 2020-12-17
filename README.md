@@ -14,6 +14,8 @@ Nevertheless, please check the manuscript to access the multi-omics data used fo
 This project was conducted in [R software](https://www.r-project.org). 
 As mention previously, here we present one of the bioinformatic pipelines available in our manuscript (framework A), in the `R Scripts/` folder. However, for the other bioinformatic methodology (framework B), please revert to this [GitHub page](https://github.com/gauravj49/BulkRnaseqDE).
 
+Bear in mind, here is only provided an adaptation of the original source code. 
+
 All the necessary R package dependencies are
 
 * ggplot2
@@ -42,7 +44,6 @@ Furthermore, we also leveraged packages available in the Bioconductor:
 
 Similarly, to employ these packages, first install the BiocManager package using install.packages("BiocManager"), and later the packages above using BiocManager::install(). 
 
-Bear in mind, here is only provided an adaptation of the original source code. 
 
 ## Contact
 
