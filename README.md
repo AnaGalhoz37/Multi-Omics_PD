@@ -12,7 +12,8 @@ A dummy demo file is provided to conduct the differential expression analysis. T
 Nevertheless, please check the manuscript to access the multi-omics data used for the study.
 
 This project was conducted in [R software](https://www.r-project.org). 
-As mention previously, here we present one of the bioinformatic pipelines available in our manuscript (framework A), in the `R Scripts/` folder. However, for the other bioinformatic methodology, please revert to this [GitHub page](https://github.com/gauravj49/BulkRnaseqDE).
+As mention previously, here we present one of the bioinformatic pipelines available in our manuscript (framework A), in the `R Scripts/` folder. However, for the other bioinformatic methodology (framework B), please revert to this [GitHub page](https://github.com/gauravj49/BulkRnaseqDE).
+
 All the necessary R package dependencies are
 
 * ggplot2
