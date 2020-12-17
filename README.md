@@ -2,7 +2,8 @@
 
 ## Description
 
-In this repository is presented demo files and R scripts to reproduce one of the bioinformatic pipelines (framework A) and some of the visualization available in [insert DOI]. 
+In this repository is presented demo files and R scripts to reproduce one of the bioinformatic pipelines (framework A) and some of the visualization available in [insert DOI].
+
 Particularly, here you can find functions to ellaborate differential expression analyses of RNA-seq data (total and small RNA) using the Bioconductor packages [DESeq2](http://bioconductor.org/packages/release/bioc/html/DESeq2.html) and [TCGAbiolinks](https://bioconductor.org/packages/release/bioc/manuals/TCGAbiolinks/man/TCGAbiolinks.pdf).
 
 ## Usage 
