@@ -8,7 +8,7 @@ Particularly, here you can find functions to ellaborate differential expression 
 
 ## Usage 
 
-A dummy demo file is provided to conduct the differential expression analysis. This can be found in the `Data/` folder. 
+Demo files are provided to conduct the differential expression analysis. This can be found in the `Data/` folder. 
 Nevertheless, please check the manuscript to access the multi-omics data used for the study.
 
 This project was conducted in [R software](https://www.r-project.org). 
