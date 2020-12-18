@@ -1,4 +1,4 @@
-# DEx Multi-Omics PD
+# DEx Multi-Omics in Parkinson Disease (PD)
 
 ## Description
 
