@@ -1,4 +1,4 @@
-# Multi-Omics PD
+# DEx Multi-Omics PD
 
 ## Description
 
