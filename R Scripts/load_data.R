@@ -3,6 +3,7 @@
 # R files
 load(demo.count.file.RData)
 load(MTI_mirTarBase.RData)
+load(Ensembl_genes.RData)
 
 dir_use <- "Data/"
 
