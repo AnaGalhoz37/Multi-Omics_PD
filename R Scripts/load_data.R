@@ -18,6 +18,10 @@ get_res <- function(read_file,file,min,mx){
 txt_files <- dir(dir_use, pattern = ".txt", full.names = TRUE)
 read_txt <- lapply(txt_files,read.delim)
 
-# excel
+# xls files
 excel_files <- dir(dir_use, pattern = ".xls",full.names = TRUE)
 read_excel <- lapply(excel_files, read_excel)
+
+# csv files
+csv_files <- dir(dir_use, pattern = ".csv",full.names = TRUE)
+read_csv <- lapply(csv_files, read_csv)
