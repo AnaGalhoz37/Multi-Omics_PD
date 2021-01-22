@@ -46,7 +46,8 @@ Similarly, to employ these packages, first install the BiocManager package using
 
 For the RNA decomposition, we used the immunedeconv R package. This can be installed using the query:
 
-```install.packages("remotes")
+```
+install.packages("remotes")
 remotes::install_github("icbi-lab/immunedeconv")
 ```
 
