@@ -44,6 +44,11 @@ Furthermore, we also leveraged packages available in the Bioconductor:
 
 Similarly, to employ these packages, first install the BiocManager package using install.packages("BiocManager"), and later the packages above using BiocManager::install(). 
 
+For the RNA decomposition, we used the immunedeconv R package. This can be installed using the query:
+
+install.packages("remotes")
+remotes::install_github("icbi-lab/immunedeconv")
+
 
 ## Contact
 
