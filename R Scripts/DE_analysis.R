@@ -40,10 +40,10 @@ res.DE.mRNA.new <- results(DE.mRNA.new,
                            name = "condition_treated_vs_untreated")
 
 # Shrinkage of LFC for default p-value
-res.DE.mRNA.new_shrink_apeglm <- lfcShrink(res.DE.mRNA.new,
+res.DE.mRNA.new_shrink_apeglm <- lfcShrink(DE.mRNA.new,
                                    coef = "condition_treated_vs_untreated",
                                    type = "apeglm")
-res.DE.mRNA.new_shrink_ashr <- lfcShrink(res.DE.mRNA.new,
+res.DE.mRNA.new_shrink_ashr <- lfcShrink(DE.mRNA.new,
                                    coef = "condition_treated_vs_untreated",
                                    type = "ashr")
 # Ordering results from DESeq2 by p-value with default p-value
