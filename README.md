@@ -2,7 +2,7 @@
 
 ## Description
 
-In this repository is presented demo files and R scripts to reproduce one of the bioinformatic pipelines (framework A) and some of the visualization available in [https://doi.org/10.1002/ctm2.692].
+In this repository is presented demo files and R scripts to reproduce one of the bioinformatic pipelines (framework A) and some of the visualization available in the manuscript *Multi-omic landscaping of human midbrains identifies disease-relevant molecular targets and pathways in advanced-stage Parkinson's disease*, published in [Clinical Translational Medicine (2022)](https://doi.org/10.1002/ctm2.692).
 
 Particularly, here you can find functions to ellaborate differential expression analyses of RNA-seq data (total and small RNA) using the Bioconductor packages [DESeq2](http://bioconductor.org/packages/release/bioc/html/DESeq2.html) and [TCGAbiolinks](https://bioconductor.org/packages/release/bioc/manuals/TCGAbiolinks/man/TCGAbiolinks.pdf).
 
